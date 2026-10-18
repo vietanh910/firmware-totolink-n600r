@@ -1,0 +1,6 @@
+Changelog for N600R_V5.3c.7222_B20190724_ALL version:
+1. Fixed Chrome problem
+2. Fixed DNS problem
+3. Fixed PPPoE problem
+4. Fixed No-IP problem
+5. Addition VLAN function
